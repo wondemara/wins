@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "201092308334",
+    "project_id": "winne-8b444",
+    "storage_bucket": "winne-8b444.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201092308334:android:22b9104025431d3f54357f",
+        "android_client_info": {
+          "package_name": "com.example.win"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201092308334-bpkh6j3sififpeo07ckpgdqarrfoutg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCulN6kL9iC5bxFcnTKh7LR5Bo2jZ_rLv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201092308334-bpkh6j3sififpeo07ckpgdqarrfoutg8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
